@@ -5,7 +5,6 @@ build-backend = "hatchling.build"
 [project]
 dependencies = [
   "requests",
-  "string",
   "pyperclip",
 ]
 name = "PyUtilities"
