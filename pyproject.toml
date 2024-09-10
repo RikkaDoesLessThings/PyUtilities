@@ -5,6 +5,7 @@ authors = [
   { name="Rikka", email="rikkadoesthings@gmail.com" },
 ]
 description = "A bunch of utilities for Python."
+readme = "README.md"
 requires-python = ">=2.7"
 classifiers = [
     "Programming Language :: Python :: 3",
