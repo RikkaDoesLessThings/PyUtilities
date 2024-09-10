@@ -1,5 +1,9 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
 [project]
-name = "pyutilities_rikka"
+name = "PyUtilities"
 version = "0.79"
 authors = [
   { name="Rikka", email="rikkadoesthings@gmail.com" },
