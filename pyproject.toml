@@ -1,18 +1,16 @@
 [project]
-name = "example_package_YOUR_USERNAME_HERE"
-version = "0.0.1"
+name = "pyutilities_rikka"
+version = "0.79"
 authors = [
-  { name="Example Author", email="author@example.com" },
+  { name="Rikka", email="rikkadoesthings@gmail.com" },
 ]
-description = "A small example package"
-readme = "README.md"
-requires-python = ">=3.8"
+description = "A bunch of utilities for Python."
+requires-python = ">=2.7"
 classifiers = [
     "Programming Language :: Python :: 3",
-    "License :: OSI Approved :: MIT License",
     "Operating System :: OS Independent",
 ]
 
 [project.urls]
-Homepage = "https://github.com/pypa/sampleproject"
-Issues = "https://github.com/pypa/sampleproject/issues"
+Homepage = "https://github.com/RikkaDoesLessThings/PyUtilities"
+Issues = "https://github.com/RikkaDoesLessThings/PyUtilities/issues"
