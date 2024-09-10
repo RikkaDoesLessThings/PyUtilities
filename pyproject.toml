@@ -4,9 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 dependencies = [
-  "re",
   "requests",
-  "subprocess",
   "string",
   "pyperclip",
 ]
