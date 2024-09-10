@@ -3,6 +3,15 @@ requires = ["hatchling"]
 build-backend = "hatchling.build"
 
 [project]
+dependencies = [
+  "httpx",
+  "re",
+  "requests",
+  "subprocess",
+  "string",
+  "pyperclip",
+  "hashlib",
+]
 name = "PyUtilities"
 version = "0.79"
 authors = [
