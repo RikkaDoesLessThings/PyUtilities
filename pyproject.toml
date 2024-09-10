@@ -29,3 +29,6 @@ classifiers = [
 [project.urls]
 Homepage = "https://github.com/RikkaDoesLessThings/PyUtilities"
 Issues = "https://github.com/RikkaDoesLessThings/PyUtilities/issues"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/pyutilities"]
